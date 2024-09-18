@@ -3,5 +3,8 @@
     "**/.git": true,
     "**/*.class": true,
     "**/.DS_Store": true
+  },
+  "yaml.schemas": {
+    "https://ms-python.vscode-unpkg.net/ms-python/python/2024.8.1/extension/schemas/condarc.json": "vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a352c226964223a226d61696e227d7d/microsoft/java-debug/.azure-pipelines/signjars-rc.yml"
   }
 }
